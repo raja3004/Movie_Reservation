@@ -1,0 +1,52 @@
+th{
+    text-align:left;
+    
+
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    /* background-color: #242333; */
+    /* background: url("myke-simon-atsUqIm3wxo-unsplash.jpg"),
+        linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 0.9)); */
+    background: linear-gradient(rgba(0, 18, 50, 0.84), rgba(0, 0, 0, 0.95)),
+        url("./lloyd-dirks-4SLz_RCk6kQ-unsplash.jpg") bottom;
+    background-size: cover;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 18, 50);
+    padding-top: 150px;
+    padding-right: 140px;
+    padding-left: 50px;
+    padding-bottom: 170px;
+    
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  div {
+    text-align: center;
+    border-style: solid;
+    margin-left: 300px;
+    width:60%
+    
+}
+#alignment{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+td{
+    color: white
+}
